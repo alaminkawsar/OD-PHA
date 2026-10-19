@@ -1,0 +1,51 @@
+﻿case_id,data_type,question,answer
+BASIC-001,demo_synthetic,What was my average heart rate yesterday?,Your average heart rate yesterday was 74 bpm.
+BASIC-002,demo_synthetic,What was my resting heart rate yesterday?,Your resting heart rate yesterday was 62 bpm.
+BASIC-003,demo_synthetic,What was my highest heart rate yesterday?,Your highest recorded heart rate yesterday was 128 bpm.
+BASIC-004,demo_synthetic,What was my lowest heart rate yesterday?,Your lowest recorded heart rate yesterday was 54 bpm.
+BASIC-005,demo_synthetic,What was my average heart rate this morning?,Your average heart rate this morning was 71 bpm.
+BASIC-006,demo_synthetic,How many steps did I take yesterday?,"You took 8,420 steps yesterday."
+BASIC-007,demo_synthetic,How many steps did I take today so far?,"You have taken 3,150 steps so far today."
+BASIC-008,demo_synthetic,What was my total walking distance yesterday?,Your recorded walking distance yesterday was 5.8 km.
+BASIC-009,demo_synthetic,How many calories did I burn through activity yesterday?,You recorded 420 active calories yesterday.
+BASIC-010,demo_synthetic,How many minutes was I active yesterday?,You recorded 46 minutes of activity yesterday.
+BASIC-011,demo_synthetic,How many floors did I climb yesterday?,You recorded 7 floors climbed yesterday.
+BASIC-012,demo_synthetic,What was my average daily step count last week?,"Your average daily step count last week was 7,650 steps."
+BASIC-013,demo_synthetic,What was my total step count last week?,"You recorded 53,550 steps last week."
+BASIC-014,demo_synthetic,How far did I walk last week?,Your recorded walking distance last week was 36.4 km.
+BASIC-015,demo_synthetic,How many active calories did I burn last week?,"You recorded 2,850 active calories last week."
+BASIC-016,demo_synthetic,How long did I sleep last night?,You slept for 6 hours and 45 minutes last night.
+BASIC-017,demo_synthetic,What time did I fall asleep last night?,Your sleep record shows that you fell asleep at 11:20 PM last night.
+BASIC-018,demo_synthetic,What time did I wake up this morning?,Your sleep record shows that you woke up at 6:05 AM.
+BASIC-019,demo_synthetic,How much deep sleep did I get last night?,Your recorded deep sleep last night was 1 hour and 12 minutes.
+BASIC-020,demo_synthetic,How much REM sleep did I get last night?,Your recorded REM sleep last night was 1 hour and 25 minutes.
+BASIC-021,demo_synthetic,How much light sleep did I get last night?,Your recorded light sleep last night was 4 hours and 8 minutes.
+BASIC-022,demo_synthetic,How many times was I awake during the night?,Your sleep record shows 2 awake periods during the night.
+BASIC-023,demo_synthetic,What was my average sleep duration over the last 7 nights?,Your average sleep duration over the last 7 nights was 6 hours and 52 minutes per night.
+BASIC-024,demo_synthetic,How many hours did I sleep in total last week?,You recorded a total of 48 hours and 4 minutes of sleep last week.
+BASIC-025,demo_synthetic,What was my blood pressure reading yesterday?,Your latest recorded blood pressure yesterday was 118/76 mmHg.
+BASIC-026,demo_synthetic,What was my systolic blood pressure yesterday?,Your latest recorded systolic blood pressure yesterday was 118 mmHg.
+BASIC-027,demo_synthetic,What was my diastolic blood pressure yesterday?,Your latest recorded diastolic blood pressure yesterday was 76 mmHg.
+BASIC-028,demo_synthetic,What was my blood pressure reading this morning?,Your latest recorded blood pressure this morning was 121/78 mmHg.
+BASIC-029,demo_synthetic,What was my average blood oxygen level yesterday?,Your average recorded blood oxygen level yesterday was 97%.
+BASIC-030,demo_synthetic,What was my lowest blood oxygen level yesterday?,Your lowest recorded blood oxygen level yesterday was 94%.
+BASIC-031,demo_synthetic,What was my average body temperature yesterday?,Your average recorded body temperature yesterday was 36.7 °C.
+BASIC-032,demo_synthetic,What was my weight in the latest record?,Your latest recorded weight was 68.4 kg.
+BASIC-033,demo_synthetic,What was my body fat percentage in the latest record?,Your latest recorded body fat percentage was 21.5%.
+BASIC-034,demo_synthetic,What was my latest BMI record?,Your latest recorded BMI was 23.4.
+BASIC-035,demo_synthetic,How much water did I log yesterday?,You logged 1.8 liters of water yesterday.
+BASIC-036,demo_synthetic,How many glasses of water did I log yesterday?,"You logged 7 glasses of water yesterday, based on your app's recorded entries."
+BASIC-037,demo_synthetic,How many workouts did I record last week?,You recorded 4 workouts last week.
+BASIC-038,demo_synthetic,How long was my workout yesterday?,Your recorded workout yesterday lasted 35 minutes.
+BASIC-039,demo_synthetic,What type of workout did I record yesterday?,Your recorded workout yesterday was a brisk walk.
+BASIC-040,demo_synthetic,How many calories did I burn during my workout yesterday?,Your workout record shows 210 calories burned.
+BASIC-041,demo_synthetic,What was my average pace during yesterday's walk?,Your average pace during yesterday's walk was 10 minutes 20 seconds per kilometer.
+BASIC-042,demo_synthetic,What was my average cycling speed yesterday?,Your recorded average cycling speed yesterday was 18.5 km/h.
+BASIC-043,demo_synthetic,How many minutes of exercise did I record this week?,You recorded 165 minutes of exercise this week.
+BASIC-044,demo_synthetic,How many inactive hours did I record yesterday?,Your activity summary recorded 8 inactive hours yesterday.
+BASIC-045,demo_synthetic,What was my average heart rate during yesterday's workout?,Your average heart rate during yesterday's workout was 112 bpm.
+BASIC-046,demo_synthetic,What was my maximum heart rate during yesterday's workout?,Your maximum heart rate during yesterday's workout was 142 bpm.
+BASIC-047,demo_synthetic,How many steps did I take on Monday?,"You took 7,800 steps on Monday."
+BASIC-048,demo_synthetic,What was my sleep duration on Monday night?,Your sleep record for Monday night shows 7 hours and 5 minutes.
+BASIC-049,demo_synthetic,What was my average heart rate on Monday?,Your average heart rate on Monday was 73 bpm.
+BASIC-050,demo_synthetic,What was my latest recorded blood pressure?,Your latest recorded blood pressure was 121/78 mmHg.
